@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/)
 - 💬 Ask me about Phones, Laptops and of course Flutter.
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: Interested in manga.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrmishra)](https://github.com/rahulrmishra/github-readme-stats)
